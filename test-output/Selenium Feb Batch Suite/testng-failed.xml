@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Selenium Feb Batch Suite]">
+  <test name="Regression Suite(failed)">
+    <classes>
+      <class name="SeleniumBatchFeb.TestClass1">
+        <methods>
+          <include name="display4"/>
+          <include name="display5"/>
+          <include name="afterSuiteMethod"/>
+          <include name="display3"/>
+          <include name="display6"/>
+          <include name="display7"/>
+          <include name="beforeSuiteMethod"/>
+          <include name="display1"/>
+        </methods>
+      </class> <!-- SeleniumBatchFeb.TestClass1 -->
+      <class name="SeleniumBatchFeb.TestClass2">
+        <methods>
+          <include name="display5"/>
+          <include name="display4"/>
+          <include name="display3"/>
+          <include name="afterSuiteMethod"/>
+          <include name="beforeSuiteMethod"/>
+          <include name="display1"/>
+        </methods>
+      </class> <!-- SeleniumBatchFeb.TestClass2 -->
+    </classes>
+  </test> <!-- Regression Suite(failed) -->
+</suite> <!-- Failed suite [Selenium Feb Batch Suite] -->

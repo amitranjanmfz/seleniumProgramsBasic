@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Smoke Test Demo(failed)">
+    <groups>
+      <run>
+        <include name="smokeTest"/>
+        <include name="regressionTest"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="seleniumClass5.TestClass3">
+        <methods>
+          <include name="test6"/>
+        </methods>
+      </class> <!-- seleniumClass5.TestClass3 -->
+    </classes>
+  </test> <!-- Smoke Test Demo(failed) -->
+</suite> <!-- Failed suite [Suite] -->

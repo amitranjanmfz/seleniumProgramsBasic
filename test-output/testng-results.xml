@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Selenium Feb Batch Suite" duration-ms="47" started-at="2019-03-17T09:33:59Z" finished-at="2019-03-17T09:33:59Z">
+    <groups>
+    </groups>
+    <test name="Regression Suite" duration-ms="47" started-at="2019-03-17T09:33:59Z" finished-at="2019-03-17T09:33:59Z">
+      <class name="SeleniumBatchFeb.TestClass2">
+        <test-method status="PASS" signature="display4()[pri:0, instance:SeleniumBatchFeb.TestClass2@5680a178]" name="display4" is-config="true" duration-ms="0" started-at="2019-03-17T15:03:59Z" finished-at="2019-03-17T15:03:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display4 -->
+        <test-method status="PASS" signature="display6()[pri:0, instance:SeleniumBatchFeb.TestClass2@5680a178]" name="display6" duration-ms="0" started-at="2019-03-17T15:03:59Z" finished-at="2019-03-17T15:03:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display6 -->
+        <test-method status="PASS" signature="display5()[pri:0, instance:SeleniumBatchFeb.TestClass2@5680a178]" name="display5" is-config="true" duration-ms="0" started-at="2019-03-17T15:03:59Z" finished-at="2019-03-17T15:03:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display5 -->
+        <test-method status="PASS" signature="display5()[pri:0, instance:SeleniumBatchFeb.TestClass2@5680a178]" name="display5" is-config="true" duration-ms="0" started-at="2019-03-17T15:03:59Z" finished-at="2019-03-17T15:03:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display5 -->
+        <test-method status="PASS" signature="display4()[pri:0, instance:SeleniumBatchFeb.TestClass2@5680a178]" name="display4" is-config="true" duration-ms="0" started-at="2019-03-17T15:03:59Z" finished-at="2019-03-17T15:03:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display4 -->
+        <test-method status="PASS" signature="display1()[pri:0, instance:SeleniumBatchFeb.TestClass2@5680a178]" name="display1" is-config="true" duration-ms="0" started-at="2019-03-17T15:03:59Z" finished-at="2019-03-17T15:03:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display1 -->
+        <test-method status="PASS" signature="display2()[pri:0, instance:SeleniumBatchFeb.TestClass2@5680a178]" name="display2" duration-ms="0" started-at="2019-03-17T15:03:59Z" finished-at="2019-03-17T15:03:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display2 -->
+        <test-method status="PASS" signature="display3()[pri:0, instance:SeleniumBatchFeb.TestClass2@5680a178]" name="display3" is-config="true" duration-ms="0" started-at="2019-03-17T15:03:59Z" finished-at="2019-03-17T15:03:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display3 -->
+      </class> <!-- SeleniumBatchFeb.TestClass2 -->
+      <class name="SeleniumBatchFeb.TestClass1">
+        <test-method status="PASS" signature="beforeSuiteMethod()[pri:0, instance:SeleniumBatchFeb.TestClass1@470e2030]" name="beforeSuiteMethod" is-config="true" duration-ms="15" started-at="2019-03-17T15:03:59Z" finished-at="2019-03-17T15:03:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuiteMethod -->
+        <test-method status="PASS" signature="beforeSuiteMethod()[pri:0, instance:SeleniumBatchFeb.TestClass2@5680a178]" name="beforeSuiteMethod" is-config="true" duration-ms="0" started-at="2019-03-17T15:03:59Z" finished-at="2019-03-17T15:03:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuiteMethod -->
+        <test-method status="PASS" signature="display5()[pri:0, instance:SeleniumBatchFeb.TestClass1@470e2030]" name="display5" is-config="true" duration-ms="0" started-at="2019-03-17T15:03:59Z" finished-at="2019-03-17T15:03:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display5 -->
+        <test-method status="PASS" signature="display2()[pri:0, instance:SeleniumBatchFeb.TestClass1@470e2030]" name="display2" duration-ms="0" started-at="2019-03-17T15:03:59Z" finished-at="2019-03-17T15:03:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display2 -->
+        <test-method status="PASS" signature="display5()[pri:0, instance:SeleniumBatchFeb.TestClass1@470e2030]" name="display5" is-config="true" duration-ms="0" started-at="2019-03-17T15:03:59Z" finished-at="2019-03-17T15:03:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display5 -->
+        <test-method status="PASS" signature="display4()[pri:0, instance:SeleniumBatchFeb.TestClass1@470e2030]" name="display4" is-config="true" duration-ms="0" started-at="2019-03-17T15:03:59Z" finished-at="2019-03-17T15:03:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display4 -->
+        <test-method status="PASS" signature="display4()[pri:0, instance:SeleniumBatchFeb.TestClass1@470e2030]" name="display4" is-config="true" duration-ms="0" started-at="2019-03-17T15:03:59Z" finished-at="2019-03-17T15:03:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display4 -->
+        <test-method status="PASS" signature="display6()[pri:0, instance:SeleniumBatchFeb.TestClass1@470e2030]" name="display6" duration-ms="0" started-at="2019-03-17T15:03:59Z" finished-at="2019-03-17T15:03:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display6 -->
+        <test-method status="PASS" signature="display1()[pri:0, instance:SeleniumBatchFeb.TestClass1@470e2030]" name="display1" is-config="true" duration-ms="0" started-at="2019-03-17T15:03:59Z" finished-at="2019-03-17T15:03:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display1 -->
+        <test-method status="PASS" signature="display7()[pri:0, instance:SeleniumBatchFeb.TestClass1@470e2030]" name="display7" duration-ms="15" started-at="2019-03-17T15:03:59Z" depends-on-methods="SeleniumBatchFeb.TestClass1.display6" finished-at="2019-03-17T15:03:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display7 -->
+        <test-method status="PASS" signature="display4()[pri:0, instance:SeleniumBatchFeb.TestClass1@470e2030]" name="display4" is-config="true" duration-ms="0" started-at="2019-03-17T15:03:59Z" finished-at="2019-03-17T15:03:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display4 -->
+        <test-method status="PASS" signature="display3()[pri:0, instance:SeleniumBatchFeb.TestClass1@470e2030]" name="display3" is-config="true" duration-ms="0" started-at="2019-03-17T15:03:59Z" finished-at="2019-03-17T15:03:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display3 -->
+        <test-method status="PASS" signature="display5()[pri:0, instance:SeleniumBatchFeb.TestClass1@470e2030]" name="display5" is-config="true" duration-ms="0" started-at="2019-03-17T15:03:59Z" finished-at="2019-03-17T15:03:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display5 -->
+        <test-method status="PASS" signature="afterSuiteMethod()[pri:0, instance:SeleniumBatchFeb.TestClass1@470e2030]" name="afterSuiteMethod" is-config="true" duration-ms="0" started-at="2019-03-17T15:03:59Z" finished-at="2019-03-17T15:03:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuiteMethod -->
+        <test-method status="PASS" signature="afterSuiteMethod()[pri:0, instance:SeleniumBatchFeb.TestClass2@5680a178]" name="afterSuiteMethod" is-config="true" duration-ms="0" started-at="2019-03-17T15:03:59Z" finished-at="2019-03-17T15:03:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuiteMethod -->
+      </class> <!-- SeleniumBatchFeb.TestClass1 -->
+    </test> <!-- Regression Suite -->
+  </suite> <!-- Selenium Feb Batch Suite -->
+</testng-results>

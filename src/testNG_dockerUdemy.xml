@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Selenium Feb Batch Suite" parallel="true">
+    <test name="Regression Suite">
+        <classes>
+            <class name="dockerPrograms2.chromeTest1"/>
+            <class name="dockerPrograms2.chromeTest2"/>
+            <class name="dockerPrograms2.chromeTest3"/>
+        </classes>
+    </test>
+</suite> <!-- Suite -->
+
